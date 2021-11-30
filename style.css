@@ -146,3 +146,13 @@ ul li.incomplete-tasks__task--edit input[type=text] {
 ul li.incomplete-tasks__task--edit label {
     display:none;
 }
+
+/* Add Task */
+#add-task {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#add-task > label {
+    width: 100%;
+}
